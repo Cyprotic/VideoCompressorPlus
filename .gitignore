@@ -1,0 +1,18 @@
+# Virtual environment — recreated locally with pip install
+.venv/
+
+# PyInstaller build artifacts — generated recompile
+build/
+dist/
+*.spec
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+*.pyo
+
+# User settings — contains machine-specific folder paths, not meant to be shared
+settings.json
+
+# PyCharm IDE files — personal workspace config
+.idea/
