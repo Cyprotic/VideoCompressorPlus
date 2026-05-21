@@ -1,0 +1,13 @@
+{
+  "watch_folder": "C:/Users/josea/Videos/testVideo",
+  "output_folder": "C:/Users/josea/Videos/testCompressedVideos",
+  "ffmpeg_path": "ffmpeg",
+  "ffprobe_path": "ffprobe",
+  "video_crf": 28,
+  "video_preset": "slow",
+  "audio_bitrate": "128k",
+  "reduce_to_30fps": false,
+  "max_concurrent_jobs": 1,
+  "cpu_thread_limit": 0,
+  "file_wait_timeout": 600
+}
